@@ -1,0 +1,6 @@
+{
+  "name": "كرة القدم 3D",
+  "description": "لعبة كرة القدم ثلاثية الأبعاد تفاعلية مع ركلات جزاء، ركلات حرة، وتحديات تسديد، في ملعب نيون تفاعلي مميز يحتوي على متجر كرات وإحصائيات لعب حية محفوظة عبر قاعدة بيانات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
